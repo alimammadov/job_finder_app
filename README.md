@@ -4,14 +4,5 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
-```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L0y21V_KcSE/0.jpg)](https://www.youtube.com/watch?v=L0y21V_KcSE)
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-# job_finder_app_react_native
-# job_finder_app_react_native
-# job_finder_app
